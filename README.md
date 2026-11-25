@@ -4,7 +4,7 @@ ICS student in Islamabad, working through Harvard's CS50 and building practical 
 
 ## 🚀 Featured Project
 
-**[CubeSat Environment Monitor](https://github.com/nisatariq18/-environment-monitoring-device)**
+**[CubeSat Environment Monitor](https://github.com/nisatariq18/cubesat-environment-monitor)**
 An ESP32-based CubeSat prototype that tracks temperature, humidity, air quality and light, with real-time telemetry. Built during the Learnabot robotics program.
 
 ## 🛠️ Tech Stack
