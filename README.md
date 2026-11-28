@@ -1,6 +1,6 @@
 # Hi, I'm Nisa 👋
 
-ICS student in Islamabad, working through Harvard's CS50 and building practical projects in Python, C/C++ and IoT. Learning early, building constantly.
+ICS student in Islamabad, building practical projects in Python, C/C++ and IoT. Learning early, building constantly.
 
 ## 🚀 Featured Project
 
